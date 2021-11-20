@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array2dim", "Array2dim\Arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumMaxMin", "SumMaxMin\SumMaxMin.csproj", "{8E32F378-7A7D-4132-8C62-4167660FC750}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "increase5decrease", "increase5decrease\increase5decrease.csproj", "{2217AE4B-FDAC-42AD-BCE7-1D2F16469930}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8E32F378-7A7D-4132-8C62-4167660FC750}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E32F378-7A7D-4132-8C62-4167660FC750}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E32F378-7A7D-4132-8C62-4167660FC750}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2217AE4B-FDAC-42AD-BCE7-1D2F16469930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2217AE4B-FDAC-42AD-BCE7-1D2F16469930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2217AE4B-FDAC-42AD-BCE7-1D2F16469930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2217AE4B-FDAC-42AD-BCE7-1D2F16469930}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
