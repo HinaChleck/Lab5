@@ -36,7 +36,7 @@ namespace Array2dim
             {
                 for (int j = 0; j < n; j++)
                 {
-                    if (((i % 2 == 0) && (j % 2 == 0))|| (( i % 2 != 0) && (j % 2 != 0))) 
+                    if ((i+j) % 2 == 0)
                         array[i, j] = 1;
                     else array[i, j] = 0;
                     Console.Write(" {0} ", array[i, j]);
